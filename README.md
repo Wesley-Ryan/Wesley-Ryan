@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Wesley 👋
 
+<img src="https://github.com/Wesley-Ryan/Wesley-Ryan/blob/main/assets/banner.png" alt="readme profile banner for Wesley">
 <!--
 **Wesley-Ryan/Wesley-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
