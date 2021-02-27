@@ -10,4 +10,4 @@ NodeJS because it is just plain fun...
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-white-dev/)](https://www.linkedin.com/in/diogorodrigues02/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-white-dev/)](https://www.linkedin.com/in/wesley-white-dev/)
