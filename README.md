@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Wesley-Ryan/Wesley-Ryan/main/assets/banner.jpg" alt="readme profile banner for Wesley">
+<img src="https://raw.githubusercontent.com/Wesley-Ryan/Wesley-Ryan/main/assets/banner-2.jpg" alt="readme profile banner for Wesley">
 
 ### Hi, I'm Wesley 👋
 
