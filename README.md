@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Wesley-Ryan/Wesley-Ryan/main/assets/banner-2.jpg" alt="readme profile banner for Wesley">
-
 ### Hi, I'm Wesley 👋
 
 I'm a Full Stack Developer who is passionate about privacy and making the Internet cool again 😎.
